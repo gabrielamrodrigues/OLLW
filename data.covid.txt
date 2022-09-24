@@ -1,4 +1,4 @@
-ind	times	censor	sex	age	heart	asthma	diabetes  neuro	obesity
+	times	censor	sex	age	heart	asthma	diabetes neuro	obesity
 1	13	1	0	86	1	0	1	0	0
 2	13	0	0	48	1	0	1	0	0
 3	17	0	1	68	0	0	0	0	0

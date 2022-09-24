@@ -1,3 +1,5 @@
+##'Odd log-logistic Weibull distribution in Gamlss
+
 OLLW <- function (mu.link="log", sigma.link="log", nu.link ="log") 
 {
   mstats <- checklink("mu.link", "odd log-logistic W", substitute(mu.link), 

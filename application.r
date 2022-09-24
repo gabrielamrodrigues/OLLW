@@ -11,7 +11,7 @@ library(gamlss.cens)
 ##'Data
 covid <- read.delim('https://raw.githubusercontent.com/gabrielamrodrigues/OLLW/main/data.covid.txt')
 
-#Gamlss odd log logistic Weibull model
+#Odd log-logistic Weibull distribution in Gamlss
 source('https://raw.githubusercontent.com/gabrielamrodrigues/OLLW/main/ollw.gamlss.r')
 
 ##'Marginal Model
